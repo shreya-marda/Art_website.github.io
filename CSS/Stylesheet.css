@@ -4,6 +4,7 @@ body {
     color: aqua;
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
+    font:bolder
 }
 
 div.container h1 {
@@ -123,6 +124,20 @@ div.content h2{
     color: black;
     font-family:'Times New Roman', Times, serif;
 }
+div.content h1{
+    font-size: xx-large;
+    text-align: center;
+    color: brown;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+div.content h3{
+    font-size: xx-large;
+    text-align: left;
+    color: maroon;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 div.content p{
     text-align: left;
     margin-left: 20px;
